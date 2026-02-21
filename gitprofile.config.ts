@@ -33,20 +33,28 @@ const CONFIG = {
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
-          title: 'Project Name',
+          title: 'Web Development and SEO Optimization',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'Build and create online shop for Gedebalilure.com',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+            'https://fathoni.co.uk/wp-content/uploads/2026/02/c720469b7d78cb015faa6d7a9fdc77245838a636686a99ca72e7f3b0f28cb657.jpeg',
+          link: 'https://www.instagram.com/gedebalilures',
         },
         {
-          title: 'Project Name',
+          title: 'Web Management for MIPM School',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'Build, create and manage official school website for mipm.sch.id',
           imageUrl:
             'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+          link: 'https://mipm.sch.id',
+        },
+                {
+          title: 'Web Management E-Learning for School',
+          description:
+            'Build, create and manage E-Learning for MIPM School',
+          imageUrl:
+            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
+          link: 'https://elearning.mipm.sch.id',
         },
       ],
     },
@@ -116,10 +124,10 @@ const CONFIG = {
   ],
   certifications: [
     {
-      name: 'Lorem ipsum',
-      body: 'Lorem ipsum dolor sit amet',
-      year: 'March 2022',
-      link: 'https://example.com',
+      name: 'PENKOM NGORO',
+      body: 'Pendidikan Komputer',
+      year: '2003',
+      link: 'https://penkomngoro.com',
     },
   ],
   educations: [
