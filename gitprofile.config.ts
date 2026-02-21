@@ -12,7 +12,7 @@ const CONFIG = {
   base: '/portfolio/',
   projects: {
     github: {
-      display: true, // Display GitHub projects?
+      display: false, // Display GitHub projects?
       header: 'Github Projects',
       mode: 'automatic', // Mode can be: 'automatic' or 'manual'
       automatic: {
@@ -25,7 +25,7 @@ const CONFIG = {
       },
       manual: {
         // Properties for manually specifying projects
-        projects: ['OrphanedArt/gitprofile', 'OrphanedArt/pandora'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
+        projects: ['', ''], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
       },
     },
     external: {
@@ -41,7 +41,7 @@ const CONFIG = {
           link: 'https://www.instagram.com/gedebalilures',
         },
         {
-          title: 'Web Management for MIPM School',
+          title: 'Web Management for School',
           description:
             'Build, create and manage official school website for mipm.sch.id',
           imageUrl:
@@ -66,9 +66,9 @@ const CONFIG = {
     mastodon: '',
     researchGate: '',
     facebook: 'fathoni.info',
-    instagram: 'fathoni.info',
+    instagram: 'fathoni.co.uk',
     reddit: '',
-    threads: 'fathoni.info',
+    threads: 'fathoni.co.uk',
     youtube: 'fathoni.co.uk.', // example: 'pewdiepie'
     udemy: '',
     dribbble: '',
