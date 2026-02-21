@@ -121,6 +121,27 @@ const CONFIG = {
       to: '2011',
       companyLink: 'https://lenterafajar.co.id',
     },
+    {
+      company: 'Google',
+      position: 'Publisher and Youtuber',
+      from: '2011',
+      to: '2020',
+      companyLink: 'https://google.com',
+    },
+    {
+      company: 'Mobidea',
+      position: 'Affiliate',
+      from: '2014',
+      to: '2021',
+      companyLink: 'https://mobidea.com',
+    },
+    {
+      company: 'Imonetizeit',
+      position: 'Affiliate',
+      from: '2020',
+      to: 'until now',
+      companyLink: 'https://imonetizeit.com',
+    },
   ],
   certifications: [
     {
@@ -139,35 +160,26 @@ const CONFIG = {
     },
     {
       institution: 'Sunan Kalijaga State Islamic University Yogyakarta',
-      degree: '',
+      degree: 'not finished - until KKN, Praktek Kerja Lapangan, and Skripsi',
       from: '2004',
       to: '2009',
     },
   ],
   publications: [
     {
-      title: 'Publication Title',
+      title: 'Publication',
       conferenceName: '',
-      journalName: 'Journal Name',
-      authors: 'John Doe, Jane Smith',
-      link: 'https://example.com',
+      journalName: 'My Blog',
+      authors: 'Fathoni',
+      link: 'https://fathoni.co.uk',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.',
-    },
-    {
-      title: 'Publication Title',
-      conferenceName: 'Conference Name',
-      journalName: '',
-      authors: 'John Doe, Jane Smith',
-      link: 'https://example.com',
-      description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.',
-    },
+        'Blogging.',
+    }, 
   ],
   // Display articles from your medium or dev account. (Optional)
   blog: {
     source: 'dev', // medium | dev
-    username: 'arifszn', // to hide blog section, keep it empty
+    username: 'fathoni', // to hide blog section, keep it empty
     limit: 2, // How many articles to display. Max is 10.
   },
   googleAnalytics: {
@@ -176,9 +188,9 @@ const CONFIG = {
   // Track visitor interaction and behavior. https://www.hotjar.com
   hotjar: { id: '', snippetVersion: 6 },
   themeConfig: {
-    defaultTheme: 'lofi',
+    defaultTheme: 'dark',
 
-    // Hides the switch in the navbar
+    // Hides the swith in the navbar
     // Useful if you want to support a single color mode
     disableSwitch: false,
 
@@ -232,10 +244,10 @@ const CONFIG = {
 
   // Optional Footer. Supports plain text or HTML.
   footer: `Made with <a 
-      class="text-primary" href="https://github.com/arifszn/gitprofile"
+      class="text-primary" href="https://fathoni.co.uk"
       target="_blank"
       rel="noreferrer"
-    >GitProfile</a> and ❤️`,
+    >OrphanedArt</a> and ❤️`,
 
   enablePWA: true,
 };
