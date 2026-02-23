@@ -179,7 +179,7 @@ const CONFIG = {
       to: '2003',
     },
     {
-      institution: 'Sunan Kalijaga State Islamic University Yogyakarta',
+      institution: 'Universitas Islam Negeri Sunan Kalijaga Yogyakarta',
       degree: 'not finished - until KKN, Praktek Kerja Lapangan, and Skripsi',
       from: '2004',
       to: '2009',
