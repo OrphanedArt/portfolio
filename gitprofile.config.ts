@@ -200,7 +200,7 @@ const CONFIG = {
   // Track visitor interaction and behavior. https://www.hotjar.com
   hotjar: { id: '', snippetVersion: 6 },
   themeConfig: {
-    defaultTheme: 'dark',
+    defaultTheme: 'emerald',
 
     // Hides the swith in the navbar
     // Useful if you want to support a single color mode
