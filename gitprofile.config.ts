@@ -33,7 +33,7 @@ const CONFIG = {
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
-          title: 'Web Development and SEO Optimization',
+          title: 'SEO Optimization',
           description:
             'Build and create online shop for Gedebalilure.com',
           imageUrl:
@@ -45,16 +45,16 @@ const CONFIG = {
           description:
             'Build, create and manage official school website for mipm.sch.id',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://mipm.sch.id',
+            'https://fathoni.co.uk/wp-content/uploads/2026/02/IMG_20260223_082047.jpg',
+          link: 'https://mipmcukir.com',
         },
                 {
-          title: 'Web Management E-Learning for School',
+          title: 'E-Learning for School',
           description:
-            'Build, create and manage E-Learning for MIPM School',
+            'Build, create and manage E-Learning for elearning.mipm.sch.id',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://elearning.mipm.sch.id',
+            'https://fathoni.co.uk/wp-content/uploads/2026/02/IMG_20260223_082110.jpg',
+          link: 'https://mipmcukir.com',
         },
       ],
     },
@@ -149,6 +149,18 @@ const CONFIG = {
       body: 'Pendidikan Komputer',
       year: '2003',
       link: 'https://penkomngoro.com',
+    },
+    {
+      name: 'Seminar Kimia Regional',
+      body: 'Badan Eksekutif Mahasiswa UIN Sunan Kalijaga Yogyakarta',
+      year: '2006',
+      link: 'https://uin-suka.ac.id/',
+    },
+        {
+      name: 'KKN',
+      body: 'Lembaga Pengabdian Kepada Masyarakat UIN Sunan Kalijaga Yogyakarta',
+      year: '2007',
+      link: 'https://uin-suka.ac.id/',
     },
   ],
   educations: [
