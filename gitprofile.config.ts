@@ -185,7 +185,7 @@ const CONFIG = {
       to: '2008',
     },
   ],
-  Organisation: [
+  organisations: [
     {
       institution: 'FMN (Front Mahasiswa Nasional)',
       role: 'Member',
