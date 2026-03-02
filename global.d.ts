@@ -367,7 +367,7 @@ interface Config {
   /**
    * Organization list
    */
-  organization?: Array<Organization>;
+  organizations?: Array<Organization>;
 
   /**
    * Publication list
