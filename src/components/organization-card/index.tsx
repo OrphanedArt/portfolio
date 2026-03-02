@@ -1,4 +1,3 @@
-
 import React from 'react';
 import { SanitizedOrganization } from '../../interfaces/sanitized-config';
 import { skeleton } from '../../utils';
@@ -75,7 +74,7 @@ const OrganizationCard = ({
                   <ListItem
                     key={index}
                     time={`${item.from} - ${item.to}`}
-                    degree={item.role}
+                    role={item.role}
                     institution={item.institution}
                   />
                 ))}
