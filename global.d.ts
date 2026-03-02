@@ -365,6 +365,11 @@ interface Config {
   educations?: Array<Education>;
 
   /**
+   * Organization list
+   */
+  organization?: Array<Organization>;
+
+  /**
    * Publication list
    */
   publications?: Array<Publication>;
