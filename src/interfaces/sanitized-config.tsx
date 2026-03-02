@@ -91,6 +91,13 @@ export interface SanitizedEducation {
   to: string;
 }
 
+export interface SanitizedOrganization {
+  institution?: string;
+  role?: string;
+  from: string;
+  to: string;
+}
+
 export interface SanitizedPublication {
   title: string;
   conferenceName?: string;
@@ -133,6 +140,7 @@ export interface SanitizedConfig {
   skills: Array<string>;
   experiences: Array<SanitizedExperience>;
   educations: Array<SanitizedEducation>;
+  organizations: Array<SanitizedOrganization>;
   certifications: Array<SanitizedCertification>;
   publications: Array<SanitizedPublication>;
   googleAnalytics: SanitizedGoogleAnalytics;
