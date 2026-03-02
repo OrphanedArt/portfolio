@@ -33,7 +33,7 @@ const CONFIG = {
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
-          title: 'SEO Optimization',
+          title: 'SEO Optimization for Online Shop',
           description:
             'Build and create online shop for Gedebalilure.com',
           imageUrl:
@@ -187,14 +187,14 @@ const CONFIG = {
   ],
   Organisation: [
     {
-      institution: 'FMN Front Mahasiswa Nasional',
-      degree: 'Member',
+      institution: 'FMN (Front Mahasiswa Nasional)',
+      role: 'Member',
       from: '2004',
       to: '2008',
     },
     {
       institution: 'PMII (Pergerakan Mahasiswa Islam Indonesia)',
-      degree: 'Member',
+      role: 'Member',
       from: '2004',
       to: '2008',
     },
