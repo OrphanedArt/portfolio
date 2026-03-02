@@ -180,9 +180,23 @@ const CONFIG = {
     },
     {
       institution: 'Universitas Islam Negeri Sunan Kalijaga Yogyakarta',
-      degree: 'not finished - until KKN, Praktek Kerja Lapangan, and Skripsi',
+      degree: 'Ungraduated - until KKN, Praktek Kerja Lapangan, and Skripsi',
       from: '2004',
       to: '2009',
+    },
+  ],
+  Organisation: [
+    {
+      institution: 'FMN Front Mahasiswa Nasional',
+      degree: 'Member',
+      from: '2004',
+      to: '2008',
+    },
+    {
+      institution: 'PMII (Pergerakan Mahasiswa Islam Indonesia)',
+      degree: 'Member',
+      from: '2004',
+      to: '2008',
     },
   ],
   publications: [
