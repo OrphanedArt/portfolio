@@ -237,6 +237,13 @@ interface Education {
   to: string;
 }
 
+interface Organization {
+  institution?: string;
+  role?: string;
+  from: string;
+  to: string;
+}
+
 interface Publication {
   title: string;
   conferenceName?: string;
