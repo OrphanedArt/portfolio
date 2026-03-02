@@ -165,7 +165,7 @@ const CONFIG = {
       link: 'https://uin-suka.ac.id/',
     },
         {
-      name: 'KKN',
+      name: 'Kuliah Kerja Nyata',
       body: 'Lembaga Pengabdian Kepada Masyarakat UIN Sunan Kalijaga Yogyakarta',
       year: '2007',
       link: 'https://uin-suka.ac.id/',
@@ -182,7 +182,7 @@ const CONFIG = {
       institution: 'Universitas Islam Negeri Sunan Kalijaga Yogyakarta',
       degree: 'Ungraduated - until KKN, Praktek Kerja Lapangan, and Skripsi',
       from: '2004',
-      to: '2009',
+      to: '2008',
     },
   ],
   Organisation: [
@@ -195,7 +195,7 @@ const CONFIG = {
     {
       institution: 'PMII (Pergerakan Mahasiswa Islam Indonesia)',
       role: 'Member',
-      from: '2004',
+      from: '2005',
       to: '2008',
     },
   ],
