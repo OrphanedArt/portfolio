@@ -108,7 +108,7 @@ const CONFIG = {
   },
   resume: {
     fileUrl:
-      'https://fathoni.co.uk/wp-content/uploads/2026/02/Portofolio-Kholid-Shohibul-Fathoni-1.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      'https://fathoni.co.uk/wp-content/uploads/2026/03/Riwayat-Hidup_Kholid-Shohibul-Fathoni.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'HTML',
