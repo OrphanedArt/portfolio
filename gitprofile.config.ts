@@ -37,7 +37,7 @@ const CONFIG = {
           description:
             'Build and create online shop for Gedebalilure.com',
           imageUrl:
-            'https://fathoni.co.uk/wp-content/uploads/2026/02/c720469b7d78cb015faa6d7a9fdc77245838a636686a99ca72e7f3b0f28cb657.jpeg',
+            'https://fathoni.co.uk/wp-content/uploads/2026/03/file_0000000049f87208a3ff51d8d9ac1a85.png',
           link: 'https://www.instagram.com/gedebalilures',
         },
         {
@@ -45,7 +45,7 @@ const CONFIG = {
           description:
             'Build, create and manage official school website for mipm.sch.id',
           imageUrl:
-            'https://fathoni.co.uk/wp-content/uploads/2026/02/IMG_20260223_082047.jpg',
+            'https://fathoni.co.uk/wp-content/uploads/2026/03/file_00000000c5c07208b658363ffd00ff87.png',
           link: 'https://mipmcukir.com',
         },
                 {
@@ -53,7 +53,7 @@ const CONFIG = {
           description:
             'Build, create and manage E-Learning for elearning.mipm.sch.id',
           imageUrl:
-            'https://fathoni.co.uk/wp-content/uploads/2026/02/IMG_20260223_082110.jpg',
+            'https://fathoni.co.uk/wp-content/uploads/2026/03/file_00000000c5c07208b658363ffd00ff87.png',
           link: 'https://mipmcukir.com',
         },
                    {
