@@ -64,6 +64,22 @@ const CONFIG = {
             'https://fathoni.co.uk/wp-content/uploads/2026/02/IMG_20260223_092740.jpg',
           link: 'https://wwww.facebook.com/CV.LENTERAFAJAR',
         },     
+                           {
+          title: 'Social Media Management',
+          description:
+            'Creates, schedules, and analyzes content across platforms to boost brand awareness, engagement, and sales for CV. Lentera Fajar',
+          imageUrl:
+            'https://fathoni.co.uk/wp-content/uploads/2026/02/IMG_20260223_092740.jpg',
+          link: 'https://www.facebook.com/share/1DbUZuyk5J/',
+        },     
+                                   {
+          title: 'Social Media Management',
+          description:
+            'Creates, schedules, and analyzes content across platforms to boost brand awareness, engagement, and sales for CV. Lentera Fajar',
+          imageUrl:
+            'https://fathoni.co.uk/wp-content/uploads/2026/02/IMG_20260223_092740.jpg',
+          link: 'https://www.instagram.com/fathoni.co.uk',
+        },     
       ],
     },
   },
