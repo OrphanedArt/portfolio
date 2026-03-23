@@ -80,6 +80,15 @@ const CONFIG = {
             'https://fathoni.co.uk/wp-content/uploads/2026/03/file_000000002ef07208a0bb4993573d76e6.png',
           link: 'https://www.instagram.com/fathoni.co.uk',
         },     
+                                   {
+          title: 'Social Media Management',
+          description:
+            'Creates, schedules, and analyzes content across platforms to boost brand awareness, engagement, and sales for Instagram',
+          imageUrl:
+            'https://fathoni.co.uk/wp-content/uploads/2026/03/file_000000002ef07208a0bb4993573d76e6.png',
+          link: 'https://www.tiktok.com/@fathoni.co.uk',
+                                     
+        },     
       ],
     },
   },
