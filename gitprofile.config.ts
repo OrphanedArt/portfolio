@@ -70,7 +70,7 @@ const CONFIG = {
             'Creates, schedules, and analyzes content across platforms to boost brand awareness, engagement, and sales for Facebook Page',
           imageUrl:
             'https://fathoni.co.uk/wp-content/uploads/2026/03/file_000000002ef07208a0bb4993573d76e6.png',
-          link: 'https://www.facebook.com/share/1CSd8jYQzX/',
+          link: 'https://www.facebook.com/100044179552072/',
         },     
                                    {
           title: 'Social Media Management',
