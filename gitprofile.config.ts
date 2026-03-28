@@ -46,7 +46,7 @@ const CONFIG = {
             'Build, create and manage official school website for mipm.sch.id',
           imageUrl:
             'https://fathoni.co.uk/wp-content/uploads/2026/03/file_00000000c5c07208b658363ffd00ff87.png',
-          link: 'https://mipmcukir.com',
+          link: 'https://mipm.sch.id/',
         },
                 {
           title: 'E-Learning for School',
