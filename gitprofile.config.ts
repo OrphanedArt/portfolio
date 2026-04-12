@@ -57,7 +57,7 @@ const CONFIG = {
           link: 'https://mipmcukir.com',
         },
                    {
-          title: 'Social Media Management',
+          title: 'Social Media Management for company',
           description:
             'Creates, schedules, and analyzes content across platforms to boost brand awareness, engagement, and sales for CV. Lentera Fajar',
           imageUrl:
@@ -65,7 +65,7 @@ const CONFIG = {
           link: 'https://wwww.facebook.com/CV.LENTERAFAJAR',
         },     
                            {
-          title: 'Social Media Management',
+          title: 'Social Media Management - Facebook Page',
           description:
             'Creates, schedules, and analyzes content across platforms to boost brand awareness, engagement, and sales for Facebook Page',
           imageUrl:
@@ -73,7 +73,7 @@ const CONFIG = {
           link: 'https://www.facebook.com/100044179552072/',
         },     
                                    {
-          title: 'Social Media Management',
+          title: 'Social Media Management - Instagram',
           description:
             'Creates, schedules, and analyzes content across platforms to boost brand awareness, engagement, and sales for Instagram',
           imageUrl:
@@ -81,7 +81,7 @@ const CONFIG = {
           link: 'https://www.instagram.com/fathoni.co.uk',
         },     
                                    {
-          title: 'Social Media Management',
+          title: 'Social Media Management - Tiktok',
           description:
             'Creates, schedules, and analyzes content across platforms to boost brand awareness, engagement, and sales for Tiktok',
           imageUrl:
@@ -117,7 +117,7 @@ const CONFIG = {
   },
   resume: {
     fileUrl:
-      'https://fathoni.co.uk/wp-content/uploads/2026/03/Riwayat-Hidup_Kholid-Shohibul-Fathoni.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      'https://fathoni.co.uk/wp-content/uploads/2026/04/Riwayat-Hidup_Kholid-Shohibul-Fathoni.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'HTML',
@@ -151,7 +151,7 @@ const CONFIG = {
       company: 'CV. Lentera Fajar',
       position: 'Marketing',
       from: '2010',
-      to: '2011',
+      to: '2014',
       companyLink: 'https://lenterafajar.co.id',
     },
     {
@@ -164,14 +164,14 @@ const CONFIG = {
     {
       company: 'Mobidea',
       position: 'Affiliate',
-      from: '2014',
-      to: '2021',
+      from: '2020',
+      to: '2024',
       companyLink: 'https://mobidea.com',
     },
     {
       company: 'Imonetizeit',
       position: 'Affiliate',
-      from: '2020',
+      from: '2024',
       to: 'until now',
       companyLink: 'https://imonetizeit.com',
     },
