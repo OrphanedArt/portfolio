@@ -149,14 +149,14 @@ const CONFIG = {
     },
     {
       company: 'CV. Lentera Fajar',
-      position: 'Marketing',
+      position: 'Digital Marketing',
       from: '2010',
       to: '2014',
       companyLink: 'https://lenterafajar.co.id',
     },
     {
       company: 'Google',
-      position: 'Publisher and Youtuber',
+      position: 'Publisher and Content Creator',
       from: '2011',
       to: '2020',
       companyLink: 'https://google.com',
@@ -167,6 +167,13 @@ const CONFIG = {
       from: '2020',
       to: '2024',
       companyLink: 'https://mobidea.com',
+    },
+    {
+      company: 'Fiverr',
+      position: 'Social Media Marketing and Web Design',
+      from: '2020',
+      to: '2024',
+      companyLink: 'https://fiverr.com',
     },
     {
       company: 'Imonetizeit',
